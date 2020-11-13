@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bg-dark {
+  background-color: #0f376f!important;
+}
+.jumbotron-fluid {
+  min-height: 450px;
+  background: #0f366f;
+  color: white;
+}
+.container {
+  padding: 100px 0px;
+}
+.card-header {
+  font-weight: 600;
+  border: none;
+}
+.card-footer {
+  background-color: #0f366f;
+  color: white;
+}
+#html {
+  background-color: #f06629;
+  color: white;
+}
+#javascript {
+  background-color: #d2b604;
+  color: white;
+}
+#node {
+  background-color: #679f63;
+  color: white;
+}
