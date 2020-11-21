@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7bb9ef;
+  background-color: #ffffff;
 }
 
 code {
@@ -19,6 +19,9 @@ code {
   min-height: 450px;
   background: #0f366f;
   color: white;
+}
+#projects-container {
+  padding: 0px 0px;
 }
 .container {
   padding: 100px 0px;
@@ -48,5 +51,26 @@ code {
 }
 #node {
   background-color: #679f63;
+  color: white;
+}
+#github-url a {
+  color: white;
+}
+#github-url p {
+  margin-bottom: 0;
+}
+.card {
+  margin: 20px 0px;
+}
+#footer-container {
+  background-color: slategray;
+  padding: 50px 0px;
+}
+#footer-container .row {
+  max-width: 1140px;
+  margin: auto;
+  color: white;
+}
+#footer-container a {
   color: white;
 }
