@@ -12,8 +12,8 @@ function Project(props) {
                     <p className="card-text">{props.body}</p>
                     <a href="/" className="btn btn-primary">Go somewhere</a>
                 </div>
-                <div className="card-footer">
-                    {props.footer}
+                <div className="card-footer" id="github-url">
+                    <p><a href={props.url}>View Source</a></p>
                 </div>
             </div>
         </>
