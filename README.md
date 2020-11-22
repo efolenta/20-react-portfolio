@@ -1,6 +1,6 @@
 # React Portfolio
 
-This portfolio was built using the React.js framework.
+This portfolio was built using the React framework.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This portfolio was built using the React.js framework.
 ### Deployed Link
 
 You can view the portfolio live right now! It's hosted on GitHub Pages thanks to the `gh-pages` node module.
-Open [Live Portfolio](https://efolenta.github.io/portfolio/) to view it in the browser.
+Open the [Live Portfolio](https://efolenta.github.io/portfolio/) to view it in the browser.
 
 ### Technologies Used
 
