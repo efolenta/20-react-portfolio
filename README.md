@@ -28,7 +28,9 @@ Open [Live Portfolio](https://efolenta.github.io/portfolio/) to view it in the b
 
 ### Screenshots
 
-Homepage
+#### Homepage
 ![Home Page Screenshot](./src/assets/screenshots/home-screenshot.jpg)
+#### Portfolio
 ![Portfolio Page Screenshot](./src/assets/screenshots/portfolio-screenshot.jpg)
+#### Mobile Layout
 ![Mobile Page Screenshot](./src/assets/screenshots/mobile-screenshot.jpg)
