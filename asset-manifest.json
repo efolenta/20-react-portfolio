@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b9971395.chunk.css",
-    "main.js": "/portfolio/static/js/main.17f1a016.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.17f1a016.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.2e317963.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.2e317963.js.map",
-    "static/js/2.a8767fac.chunk.js": "/portfolio/static/js/2.a8767fac.chunk.js",
-    "static/js/2.a8767fac.chunk.js.map": "/portfolio/static/js/2.a8767fac.chunk.js.map",
-    "static/js/3.f3575f4a.chunk.js": "/portfolio/static/js/3.f3575f4a.chunk.js",
-    "static/js/3.f3575f4a.chunk.js.map": "/portfolio/static/js/3.f3575f4a.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.b9971395.chunk.css.map": "/portfolio/static/css/main.b9971395.chunk.css.map",
-    "static/js/2.a8767fac.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a8767fac.chunk.js.LICENSE.txt",
-    "static/media/computer.f1cede1a.png": "/portfolio/static/media/computer.f1cede1a.png",
-    "static/media/github-profile.2b33ecfc.jpg": "/portfolio/static/media/github-profile.2b33ecfc.jpg"
+    "main.css": "/static/css/main.b9971395.chunk.css",
+    "main.js": "/static/js/main.f4c0bed0.chunk.js",
+    "main.js.map": "/static/js/main.f4c0bed0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f75ed227.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f75ed227.js.map",
+    "static/js/2.394e3a14.chunk.js": "/static/js/2.394e3a14.chunk.js",
+    "static/js/2.394e3a14.chunk.js.map": "/static/js/2.394e3a14.chunk.js.map",
+    "static/js/3.a1d6c1c4.chunk.js": "/static/js/3.a1d6c1c4.chunk.js",
+    "static/js/3.a1d6c1c4.chunk.js.map": "/static/js/3.a1d6c1c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b9971395.chunk.css.map": "/static/css/main.b9971395.chunk.css.map",
+    "static/js/2.394e3a14.chunk.js.LICENSE.txt": "/static/js/2.394e3a14.chunk.js.LICENSE.txt",
+    "static/media/computer.f1cede1a.png": "/static/media/computer.f1cede1a.png",
+    "static/media/github-profile.2b33ecfc.jpg": "/static/media/github-profile.2b33ecfc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e317963.js",
-    "static/js/2.a8767fac.chunk.js",
+    "static/js/runtime-main.f75ed227.js",
+    "static/js/2.394e3a14.chunk.js",
     "static/css/main.b9971395.chunk.css",
-    "static/js/main.17f1a016.chunk.js"
+    "static/js/main.f4c0bed0.chunk.js"
   ]
 }
