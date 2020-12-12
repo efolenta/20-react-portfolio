@@ -1,6 +1,6 @@
 # React Portfolio
 
-This portfolio was built using the React framework.
+Custom built and designed by Eric Folenta, this portfolio was built using the React framework.
 
 ## Table of Contents
 
