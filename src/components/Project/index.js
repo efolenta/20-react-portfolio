@@ -13,7 +13,7 @@ function Project(props) {
                     <p className="card-text">{props.body}</p>
                 </div>
                 <div className="card-footer" id="github-url">
-                    <p><a href={props.url}>View Source <img width="32px" src={githubMark} alt="GitHub Logo"/></a></p>
+                    <p><a href={props.url}>View Source <img id="github-logo" src={githubMark} alt="GitHub Logo"/></a></p>
                 </div>
             </div>
         </>
