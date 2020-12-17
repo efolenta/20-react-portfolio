@@ -12,7 +12,7 @@ function HomePage() {
   return(
     <>
       <Header />
-      <Jumbotron title="Eric Folenta" image={Profile} class="profile"/>
+      <Jumbotron title="Eric Folenta" subtext="Full Stack Web Developer from UC Irvine" image={Profile} class="profile"/>
       <ShapeDivider />
       <Container id="projects-container">
         <Row>
