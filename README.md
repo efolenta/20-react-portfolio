@@ -11,7 +11,7 @@ Custom built and designed by Eric Folenta, this portfolio was built using the Re
 ### Deployed Link
 
 You can view the portfolio live right now! It's hosted on GitHub Pages thanks to the `gh-pages` node module.
-Open the [Live Portfolio](https://efolenta.github.io/portfolio/) to view it in the browser.
+Open the [Live Portfolio](https://efolenta.github.io/) to view it in the browser.
 
 ### Technologies Used
 
