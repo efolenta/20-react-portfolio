@@ -19,7 +19,7 @@ function HomePage() {
           <Col size="md-12">
             <h1 align="center">Who am I?</h1>
             <hr />
-            <p>Hello and welcome to my portfolio. You want to know me a little bit? Well for one, im a full stack developer from UCI's Bootcamp. I love to code HTML and JavaScript based websites. I have experience in Node.js and React.js frameworks. As a matter of fact, this portfolio is built on the React framework. Please take some time to browse around and view my various works. This portfolio is updated regularly througout the year. Thank you very much for visiting.</p>
+            <p>Hello and welcome to my portfolio. You want to know me a little bit? Well for one, im a full stack developer from UCI's Bootcamp. I love to code HTML and JavaScript based websites. I have experience in Node.js and React frameworks. As a matter of fact, this portfolio is built on the React framework. Please take some time to browse around and view my various works. This portfolio is updated regularly througout the year. Thank you very much for visiting.</p>
             <h1 align="center">My Select Works</h1>
             <hr />
           </Col>
@@ -62,7 +62,7 @@ function HomePage() {
               Code="node"
               header="Node"
               title="User Directory"
-              body="Built on the React.js platform this user directory runs off a json file. Sortable too by each column."
+              body="Built on the React platform this user directory runs off a json file. Sortable too by each column."
               url="https://github.com/efolenta/19-user-directory"/>
           </Col>
           <Col size="md-4 sm-6">

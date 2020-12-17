@@ -61,7 +61,7 @@ function PortfolioPage() {
               Code="node"
               header="Node"
               title="User Directory"
-              body="Built on the React.js platform this user directory runs off a json file. Sortable too by each column."
+              body="Built on the React platform this user directory runs off a json file. Sortable too by each column."
               url="https://github.com/efolenta/19-user-directory"/>
           </Col>
           <Col size="md-4">
