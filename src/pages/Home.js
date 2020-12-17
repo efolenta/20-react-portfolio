@@ -6,6 +6,7 @@ import Project from "../components/Project";
 import ShapeDivider from "../components/ShapeDivider";
 import Footer from "../components/Footer";
 import Profile from "../assets/github-profile.jpg";
+import Technologies from "../components/Technologies";
 
 
 function HomePage() {
@@ -14,6 +15,9 @@ function HomePage() {
       <Header />
       <Jumbotron title="Eric Folenta" subtext="Full Stack Web Developer from UC Irvine" image={Profile} class="profile"/>
       <ShapeDivider />
+      <Container>
+           <Technologies />
+      </Container>
       <Container id="projects-container">
         <Row>
           <Col size="md-12">
