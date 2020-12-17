@@ -12,7 +12,7 @@ function PortfolioPage() {
     <>
       
       <Header />
-      <Jumbotron title="All Works of Eric" image={Computer} class="computer" />
+      <Jumbotron title="Full Portfolio" subtext="HTML 5, CSS 3, JavaScript, Node.js &amp; React" image={Computer} class="computer" />
       <ShapeDivider />
       <Container id="projects-container">
         <Row>
