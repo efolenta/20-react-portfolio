@@ -4,6 +4,10 @@ import { Col, Container, Row } from "../Grid";
 function Technologies () {
     return (
         <>
+        <div align="center">
+            <h1 align="center">Technologies</h1>
+            <hr />
+        </div>
         <Row>
             <Col size="md-2 xs-3">
                 <p>HTML</p>
