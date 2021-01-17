@@ -6,6 +6,7 @@ import Project from "../components/Project";
 import ShapeDivider from "../components/ShapeDivider";
 import Footer from "../components/Footer";
 import Computer from "../assets/computer.png";
+import Copyright from "../components/Copyright";
 
 function PortfolioPage() {
   return(
@@ -74,9 +75,12 @@ function PortfolioPage() {
           </Col>
         </Row>
       </Container>
-      <Container fluid id="footer-container">
+      <Container fluid id="footer">
         <Row>
           <Footer />
+        </Row>
+        <Row>
+          <Copyright />
         </Row>
       </Container>
     </>
