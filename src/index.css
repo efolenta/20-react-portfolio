@@ -7,7 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #ffffff;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -33,6 +32,10 @@ code {
 }
 .jumbotron-fluid .col-md-6 {
   padding-top: 60px;
+}
+.lead {
+  font-size: 28px;
+  line-height: 42px;
 }
 #projects-container {
   padding: 0px 0px 100px 0px;
