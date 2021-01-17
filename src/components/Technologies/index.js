@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Container, Row } from "../Grid";
+import { Col, Row } from "../Grid";
 
 function Technologies () {
     return (
@@ -9,28 +9,54 @@ function Technologies () {
             <hr />
         </div>
         <Row>
-            <Col size="md-2 xs-3">
-                <p>HTML</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        HTML
+                    </div>
+                </div>
             </Col>
-            <Col size="md-2 xs-3">
-                <p>CSS</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        CSS
+                    </div>
+                </div>
             </Col>
-            <Col size="md-2 xs-3">
-                <p>CSS</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        JavaScript
+                    </div>
+                </div>
             </Col>
-            <Col size="md-2 xs-3">
-                <p>Node.js</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        Node.js
+                    </div>
+                </div>
             </Col>
-            <Col size="md-2 xs-3">
-                <p>MySQL</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        MySQL
+                    </div>
+                </div>
             </Col>
-            <Col size="md-2 xs-3">
-                <p>MongoDB</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        MongoDB
+                    </div>
+                </div>
             </Col>
-        </Row>
-        <Row>
-            <Col size="md-2 xs-4">
-                <p>React</p>
+            <Col size="md-3 sm-6 6">
+                <div class="card">
+                    <div class="card-body">
+                        React
+                    </div>
+                </div>
             </Col>
         </Row>
         </>
