@@ -23,7 +23,7 @@ function HomePage() {
           <Col size="md-12">
             <h1 align="center">Who am I?</h1>
             <hr />
-            <p>Hello and welcome to my portfolio. You want to know me a little bit? Well for one, im a full stack developer from UCI's Bootcamp. I love to code HTML and JavaScript based websites. I have experience in Node.js and React frameworks. As a matter of fact, this portfolio is built on the React framework. Please take some time to browse around and view my various works. This portfolio is updated regularly througout the year. Thank you very much for visiting.</p>
+            <p>Hello and welcome to my portfolio. Do you want to know me a little bit? Well for one, I'm a full-stack developer from UCI's Bootcamp. I love to code HTML and JavaScript-based websites. I have experience in Node.js and React frameworks. As a matter of fact, this portfolio is built on the React framework. Please take some time to browse around and view my various works. This portfolio is updated regularly throughout the year. Thank you very much for visiting.</p>
             <h1 align="center">My Select Works</h1>
             <hr />
           </Col>
