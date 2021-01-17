@@ -120,3 +120,16 @@ li.nav-item {
     bottom: -25px;
   }
 }
+
+#technologies .card {
+  min-height: 200px;
+  width: 100%;
+  max-width: 200px;
+}
+
+#technologies .card-body {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
