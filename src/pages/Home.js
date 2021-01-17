@@ -7,6 +7,7 @@ import ShapeDivider from "../components/ShapeDivider";
 import Footer from "../components/Footer";
 import Profile from "../assets/github-profile.jpg";
 import Technologies from "../components/Technologies";
+import Copyright from "../components/Copyright";
 
 
 function HomePage() {
@@ -79,9 +80,12 @@ function HomePage() {
           </Col>
         </Row>
       </Container>
-      <Container fluid id="footer-container">
+      <Container fluid id="footer">
         <Row>
           <Footer />
+        </Row>
+        <Row>
+          <Copyright />
         </Row>
       </Container>
     </>
