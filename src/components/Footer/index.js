@@ -5,7 +5,7 @@ function Footer() {
     return (
         <>
         <Col size="md-6">
-            <h1>Eric Folenta Portfilo</h1>
+            <h1>Eric Folenta</h1>
         </Col>
         <Col size="md-6">
             <p><a href="https://github.com/efolenta">View Github</a></p>
