@@ -80,16 +80,16 @@ code {
 .card {
   margin: 20px 0px;
 }
-#footer-container {
-  background-color: slategray;
+#footer {
+  background-color: #191b1e;
   padding: 50px 0px;
 }
-#footer-container .row {
+#footer .row {
   max-width: 1140px;
   margin: auto;
   color: white;
 }
-#footer-container a {
+#footer a {
   color: white;
 }
 #computer {
