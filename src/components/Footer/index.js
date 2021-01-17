@@ -10,7 +10,7 @@ function Footer() {
             <p><a href="https://www.linkedin.com/in/eric-folenta/">View LinkedIn</a></p>
         </Col>
         <Col size="md-4">
-            <p align="right">Copyright 2020</p>
+            <p align="right">Copyright 2021</p>
         </Col>
         </>
     )
