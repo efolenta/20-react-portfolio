@@ -19,7 +19,7 @@ function HomePage() {
       <Container id="technologies">
            <Technologies />
       </Container>
-      <Container id="projects-container">
+      <Container fluid id="projects-container">
         <Row>
           <Col size="md-12">
             {/* <h1 align="center">Who am I?</h1> */}
