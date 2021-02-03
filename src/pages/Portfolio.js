@@ -9,9 +9,16 @@ import Computer from "../assets/computer.png";
 import Copyright from "../components/Copyright";
 
 function PortfolioPage() {
+
+  // This function changes the page title.
+  function componentDidMount() {
+    document.title = 'Full Portfolio | Eric Folenta | Web Developer';
+  }
+  // Run the function to change the page title.
+  componentDidMount();
+
   return(
     <>
-      
       <Header />
       <Jumbotron title="Full Portfolio" subtext="HTML 5, CSS 3, JavaScript, Node.js &amp; React" image={Computer} class="computer" />
       <ShapeDivider />

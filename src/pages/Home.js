@@ -9,8 +9,15 @@ import Profile from "../assets/github-profile.jpg";
 import Technologies from "../components/Technologies";
 import Copyright from "../components/Copyright";
 
-
 function HomePage() {
+  
+  // This function changes the page title.
+  function componentDidMount() {
+    document.title = 'Eric Folenta | Web Developer';
+  }
+  // Run the function to change the page title.
+  componentDidMount();
+
   return(
     <>
       <Header />
