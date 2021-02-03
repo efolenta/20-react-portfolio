@@ -12,34 +12,35 @@ function Technologies () {
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        HTML
+                        <i class="fab fa-html5"></i>
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        CSS
+                        <i class="fab fa-css3"></i>
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        JavaScript
+                        <i class="fab fa-js"></i>
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        Node.js
+                        <i class="fab fa-node"></i>
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
+                    <i class="fas fa-database"></i>
                         MySQL
                     </div>
                 </div>
@@ -54,7 +55,7 @@ function Technologies () {
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        React
+                        <i class="fab fa-react"></i>
                     </div>
                 </div>
             </Col>
