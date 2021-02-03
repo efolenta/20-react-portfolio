@@ -114,7 +114,8 @@ code {
   height: 100%;
   max-height: 400px;
   max-width: 400px;
-  border-radius: 400px;
+  border-radius: 5px;
+  box-shadow: 15px 15px 0px #efefef1f;
 }
 li.nav-item {
   text-align: center;
