@@ -150,3 +150,6 @@ li.nav-item {
   justify-content: center;
   align-items: center;
 }
+#technologies .fas, .fab {
+  font-size: 100px;
+}
