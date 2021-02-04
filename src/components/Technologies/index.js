@@ -43,14 +43,14 @@ function Technologies () {
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        <img width="100%" src={mysqlLogo} alt="Node JS Logo" />
+                        <img width="100%" src={mysqlLogo} alt="MySQL Logo" />
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        <img width="100%" src={mongodbLogo} alt="Node JS Logo" />
+                        <img width="100%" src={mongodbLogo} alt="MongoDB Logo" />
                     </div>
                 </div>
             </Col>
