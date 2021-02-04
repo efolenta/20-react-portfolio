@@ -1,11 +1,11 @@
 import React from "react";
-import { Col } from "../Grid";
+import { Col, Row } from "../Grid";
 
 function Copyright() {
     return (
         <>
         <Col size="md-12">
-            <p align="center">Copyright 2021</p>
+            <p align="center">&copy; 2021 Eric Folenta. All rights reserved.</p>
         </Col>
         </>
     )
