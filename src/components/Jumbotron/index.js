@@ -9,7 +9,7 @@ function Jumbotron(props) {
                     <div className="col-md-6">
                         <h1 className="display-3">{props.title}</h1>
                         <p className="lead">{props.subtext}</p>
-                        <button type="button" class="btn btn-primary">Primary</button>
+                        <button type="button" class="btn btn-primary">{props.buttonText}</button>
                     </div>
                     <div className="col-md-6" id="jumbotron-image">
                         <img src={props.image} alt="computer" id={props.class} />
