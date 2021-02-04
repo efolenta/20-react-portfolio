@@ -21,7 +21,7 @@ function HomePage() {
   return(
     <>
       <Header />
-      <Jumbotron title="Hey, I'm Eric." subtext="Full Stack Web Developer based In Rochester, NY. I enjoy creating websites to help businesses do better online." image={Profile} class="profile"/>
+      <Jumbotron title="Hey, I'm Eric." subtext="Full Stack Web Developer based In Rochester, NY. I enjoy creating websites to help businesses do better online." image={Profile} class="profile" buttonText="View Full Portfolio"/>
       <ShapeDivider />
       <Container id="technologies">
            <Technologies />
