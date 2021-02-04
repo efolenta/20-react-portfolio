@@ -1,5 +1,8 @@
 import React from "react";
 import { Col, Row } from "../Grid";
+import nodeLogo from "../../assets/Logo-NodeJS.png";
+import mongodbLogo from "../../assets/Logo-mongoDB.png";
+import mysqlLogo from "../../assets/Logo-MySQL.png";
 
 function Technologies () {
     return (
@@ -33,22 +36,21 @@ function Technologies () {
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        <i class="fab fa-node"></i>
+                        <img width="100%" src={nodeLogo} alt="Node JS Logo" />
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                    <i class="fas fa-database"></i>
-                        MySQL
+                        <img width="100%" src={mysqlLogo} alt="Node JS Logo" />
                     </div>
                 </div>
             </Col>
             <Col size="md-3 sm-6 6">
                 <div class="card">
                     <div class="card-body">
-                        MongoDB
+                        <img width="100%" src={mongodbLogo} alt="Node JS Logo" />
                     </div>
                 </div>
             </Col>
