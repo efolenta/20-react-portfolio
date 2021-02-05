@@ -7,6 +7,7 @@ import ShapeDivider from "../components/ShapeDivider";
 import Footer from "../components/Footer";
 import Computer from "../assets/computer.png";
 import Copyright from "../components/Copyright";
+import Work from "../components/Work";
 
 function PortfolioPage() {
 
@@ -22,6 +23,9 @@ function PortfolioPage() {
       <Header />
       <Jumbotron title="Full Portfolio" subtext="HTML 5, CSS 3, JavaScript, Node.js &amp; React" image={Computer} class="computer" />
       <ShapeDivider />
+      <Container id="work">
+        <Work />
+      </Container>
       <Container id="projects-container">
         <Row>
           <Col size="12">
