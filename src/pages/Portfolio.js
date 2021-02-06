@@ -87,12 +87,7 @@ function PortfolioPage() {
         </Row>
       </Container>
       <Container fluid id="footer">
-        <Row>
-          <Footer />
-        </Row>
-        <Row>
-          <Copyright />
-        </Row>
+        <Footer />
       </Container>
     </>
   );
